@@ -7,4 +7,5 @@
 - Sieve of Sundaram
 - Up to ceil(sqrt(n)) generating for n n as bound.
 - The Sieve of Atkins
+- Brute force
 
